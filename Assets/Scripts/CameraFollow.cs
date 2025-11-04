@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class TopDownCameraFollow : MonoBehaviour
+public class CameraFollow : MonoBehaviour
 {
     public Transform target;
     public float height = 20f;
