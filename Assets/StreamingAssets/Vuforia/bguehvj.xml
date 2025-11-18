@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="garfeldi" size="232.000000 232.000000" />
+    <ImageTarget name="flat750x075f-pad750x1000f8f8f8" size="750.000000 1000.000000" />
+    <ImageTarget name="7p2ecu" size="656.000000 655.000000" />
+    <ImageTarget name="target" size="644.000000 953.000000" />
+    <ImageTarget name="catze" size="235.000000 229.000000" />
+  </Tracking>
+</QCARConfig>
